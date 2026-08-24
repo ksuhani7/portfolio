@@ -54,7 +54,7 @@ All text content (name, skills, projects, contact links) lives in [`src/data.js`
 
 ## 👩‍💻 About
 
-**Suhani Kumari** — 1st year Computer Science student at Roorkee Institute of Technology.
+**Suhani Kumari** — 1st year BCA student at Roorkee Institute of Technology.
 Skills: DSA, C, C++, Java, Python, and the MERN stack.
 
 ---

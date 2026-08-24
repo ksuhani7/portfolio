@@ -2,15 +2,15 @@
 
 export const profile = {
   name: 'Suhani Kumari',
-  roles: ['MERN Stack Developer', 'Problem Solver', 'CS Undergraduate'],
+  roles: ['MERN Stack Developer', 'Problem Solver', 'BCA Student'],
   tagline:
-    'First-year Computer Science student at Roorkee Institute of Technology, building clean web experiences and sharpening my problem-solving through DSA.',
+    'First-year BCA student at Roorkee Institute of Technology, building clean web experiences and sharpening my problem-solving through DSA.',
   location: 'Roorkee, India',
   college: 'Roorkee Institute of Technology',
   year: '1st Year',
   email: 'ksuhaniumari@gmail.com',
   github: 'https://github.com/ksuhani7',
-  linkedin: 'https://www.linkedin.com/',
+  linkedin: 'https://www.linkedin.com/in/suhani-kumari-9bbb44401',
   resume: '#',
 }
 
@@ -21,7 +21,7 @@ export const stats = [
 ]
 
 export const about = [
-  "I'm Suhani Kumari, a first-year Computer Science student at Roorkee Institute of Technology with a strong interest in full-stack web development and data structures & algorithms.",
+  "I'm Suhani Kumari, a first-year BCA student at Roorkee Institute of Technology with a strong interest in full-stack web development and data structures & algorithms.",
   "I enjoy turning ideas into working products — from designing intuitive interfaces to wiring up APIs and databases on the backend. I work primarily with the MERN stack and love writing clean, efficient code.",
   "Alongside development, I regularly practice DSA in C++ and Java to build a solid problem-solving foundation. I'm always exploring new tools and technologies to grow as an engineer.",
 ]
@@ -82,5 +82,5 @@ export const projects = [
 export const contactLinks = [
   { label: 'Email', value: 'ksuhaniumari@gmail.com', href: 'mailto:ksuhaniumari@gmail.com', icon: 'mail' },
   { label: 'GitHub', value: 'ksuhani7', href: 'https://github.com/ksuhani7', icon: 'github' },
-  { label: 'LinkedIn', value: 'Connect with me', href: 'https://www.linkedin.com/', icon: 'linkedin' },
+  { label: 'LinkedIn', value: 'suhani-kumari', href: 'https://www.linkedin.com/in/suhani-kumari-9bbb44401', icon: 'linkedin' },
 ]

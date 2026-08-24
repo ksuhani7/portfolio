@@ -21,7 +21,7 @@ export default function About() {
             <div className="about__avatar">SK</div>
             <ul className="about__facts">
               <li><FiBookOpen /> <span>{profile.college}</span></li>
-              <li><FiCalendar /> <span>{profile.year} · Computer Science</span></li>
+              <li><FiCalendar /> <span>{profile.year} · BCA</span></li>
               <li><FiMapPin /> <span>{profile.location}</span></li>
             </ul>
             <a href="#contact" className="btn btn--primary btn--full">Work with me</a>
