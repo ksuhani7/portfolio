@@ -8,7 +8,7 @@ export const profile = {
   location: 'Roorkee, India',
   college: 'Roorkee Institute of Technology',
   year: '1st Year',
-  email: 'sauravkumar22631132@gmail.com',
+  email: 'ksuhaniumari@gmail.com',
   github: 'https://github.com/ksuhani7',
   linkedin: 'https://www.linkedin.com/',
   resume: '#',
@@ -80,7 +80,7 @@ export const projects = [
 ]
 
 export const contactLinks = [
-  { label: 'Email', value: 'sauravkumar22631132@gmail.com', href: 'mailto:sauravkumar22631132@gmail.com', icon: 'mail' },
+  { label: 'Email', value: 'ksuhaniumari@gmail.com', href: 'mailto:ksuhaniumari@gmail.com', icon: 'mail' },
   { label: 'GitHub', value: 'ksuhani7', href: 'https://github.com/ksuhani7', icon: 'github' },
   { label: 'LinkedIn', value: 'Connect with me', href: 'https://www.linkedin.com/', icon: 'linkedin' },
 ]
